@@ -202,21 +202,21 @@ body {
 
 /* App Section */
 .app-section {
-  background: #e8ecf0;
+  background: #F1F5F9;
   color: #1a1a1a;
   text-align: center;
   padding: 100px 20px;
 }
 
 .app-title {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 700;
   margin-bottom: 20px;
   color: #1a1a1a;
 }
 
 .app-subtitle {
-  font-size: 1.15rem;
+  font-size: 1.1rem;
   color: #6c757d;
   margin-bottom: 50px;
   max-width: 700px;
@@ -257,7 +257,8 @@ body {
 
 .apple-icon,
 .play-icon {
-  font-size: 1.3rem;
+  font-size: 1rem;
+  max-width: 25px;
 }
 
 /* Footer */
