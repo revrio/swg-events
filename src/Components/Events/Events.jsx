@@ -157,7 +157,7 @@ const Events = () => {
         </p>
         <div className="app-buttons">
           <button className="app-button">
-            <span className="apple-icon">🍎</span> App Store
+            <span className="apple-icon"></span> App Store
           </button>
           <button className="app-button">
             <span className="play-icon">▶</span> Google Play
